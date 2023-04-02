@@ -64,7 +64,7 @@ function App() {
                 src={pet.url}
                 className="App-logo"
                 alt="logo"
-                onClick={() => attemps !== 3 && handleKill(idx)}
+                onClick={() => (attemps <= 3 && pet.name !== "Killed") && handleKill(idx)}
               />
             ))}
             </>}
