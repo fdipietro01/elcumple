@@ -5,6 +5,8 @@ import sonic from "./sonic.jpg";
 import ares from "./ares.jpg";
 import bone from "./bone.jpeg";
 import clue from "./pista.jpg";
+import pablo from "./Pablo.PNG"
+
 
 export const images = [
   {
@@ -27,6 +29,11 @@ export const images = [
     name: "Ares",
     text: "Acabás de matar a PapachuSaurio. ¡Que terrible madre!",
     url: ares,
+  },
+  {
+    name: "Pablo",
+    text: "Que maldad decir que Pablo es un animalito. Pero peor es envenenarlo...",
+    url: pablo,
   },
 ];
 
