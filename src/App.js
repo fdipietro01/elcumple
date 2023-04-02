@@ -52,7 +52,7 @@ function App() {
         handlebutton={handlebutton}
         handleShow={handleShow}
       />}
-
+      <div className="gameBox"></div>
       <header className="App-header">
         <div className="coinBox">
           {showImages &&
