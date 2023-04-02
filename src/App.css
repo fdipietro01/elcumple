@@ -85,8 +85,8 @@ body{
 
 .App-logo {
   margin: 1rem;
-  width: 5.9rem;
-  height: 5.9rem;
+  width: 5.5rem;
+  height: 5.5rem;
   border-radius: 100px;
   transition: transform .2s; /* Animation */
 }
